@@ -3,4 +3,4 @@
 Free Documentary Add-On for Kodi
 
 
-Help supprt this project: https://www.patreon.com/kodifreedocs 
+Help support this project: https://www.patreon.com/kodifreedocs 
